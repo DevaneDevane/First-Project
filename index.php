@@ -1,7 +1,7 @@
 <?php
 
 //set name of page
-$page_title="Abu LTD";
+$page_title="Abu LTD 2016";
 include("includes/header.php");
 include("includes/menu.php");
 
@@ -14,7 +14,7 @@ include("includes/menu.php");
 Welcome to the Abu Ltd site (prototype). <br>
 Use the menu bars above to navigate.
 Join or Users would be a good place to start.
-
+This is an edit
 
 </p>
 
